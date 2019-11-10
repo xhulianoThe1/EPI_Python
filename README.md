@@ -1,2 +1,1 @@
-# HackerRankInterviewPrep
-HackerRank interview prep problems 0/69
+# Data Structures and Algo implemenitations 
